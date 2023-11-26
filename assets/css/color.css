@@ -1,0 +1,37 @@
+#buddypress .dir-search input[type=search], #buddypress .dir-search input[type=text], #buddypress .groups-members-search input[type=search], #buddypress .groups-members-search input[type=text], #buddypress .standard-form input[type=color], #buddypress .standard-form input[type=date], #buddypress .standard-form input[type=datetime-local], #buddypress .standard-form input[type=datetime], #buddypress .standard-form input[type=email], #buddypress .standard-form input[type=month], #buddypress .standard-form input[type=number], #buddypress .standard-form input[type=password], #buddypress .standard-form input[type=range], #buddypress .standard-form input[type=search], #buddypress .standard-form input[type=tel], #buddypress .standard-form input[type=text], #buddypress .standard-form input[type=time], #buddypress .standard-form input[type=url], #buddypress .standard-form input[type=week], #buddypress .standard-form select, #buddypress .standard-form textarea{
+    border-color: #35B535;
+		color:white;
+}
+.bb-template-v2 .user-wrap-container .sub-menu-inner>li>a,.site-header .sub-menu a{
+	color:var(--bb-headings-color);
+}
+
+.bb-template-v2 .header-aside .wrapper li .wrapper .ab-submenu a:hover{
+	background-color:#C60404;
+	color:white;
+}
+.bb-template-v2 .site-header .user-wrap.menu-item-has-children .user-link .user-name{
+	color:var(--bb-headings-color-rgb)
+}
+.bb-template-v2 .widget.buddypress div.item-options a{
+	color:white;
+}
+
+.activity-form:not(.focus-in):hover .whats-new-form-header {
+  background-color: inherit;
+}
+.buddypress-wrap .activity-comments>ul{
+background:inherit;
+}
+.activity-update-form #whats-new-form #whats-new-toolbar{
+background:inherit;
+}
+.bb-password-wrap a.bb-toggle-password{
+  color:white;
+}
+.ays-quiz-answers label{
+  color: white!important;
+}
+.activity-header a[href]:hover,.widget a:hover{
+	color: #C60404!important;
+}
